@@ -62,6 +62,7 @@ The project uses the **UCI Heart Disease Dataset**, extended with **synthetic ph
 - **Diver users** – altered heart and oxygen dynamics  
 
 These datasets simulate **continuous monitoring scenarios** encountered in wearable-based healthcare systems.
+**Dataset** can be accessed from here: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
 ---
 
